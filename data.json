@@ -1,0 +1,26 @@
+{
+  "basics":{
+    "content":" To obtain a challenging position in a high quality engineering environment where my resourceful experience and academic skills will add value to organizational operations.",
+    "data":{
+      "details":"1227"
+    }
+  }
+}
+"education":[
+  {
+  "name":"S S C",
+  "inst":"sri chaitanya school",
+  "per":"90"
+},
+{
+  "name":"INTERMEDIATE",
+  "inst":"Sri chaitanya",
+  "PER":"73%"
+},
+{
+"name":"B.TECH",
+"inst":"ANDHRA LOYOLA INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+"PER":"68%"
+}
+]
+}
